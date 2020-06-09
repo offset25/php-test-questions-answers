@@ -1,6 +1,9 @@
 <?php
 
 /*
+
+https://www.testdome.com/cert/1fa0dafb7fb1459ea443483500129d8a?c=true
+
 Test Dome Question Thesaurus Hard
 A thesaurus contains words and synonyms for each word. Below is an example of a data structure that defines a thesaurus:
 
