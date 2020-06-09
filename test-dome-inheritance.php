@@ -15,7 +15,7 @@ Implement the class NumericInput that:
 
 class TextInput
 {
-    private $current_value;
+    public $current_value;
     
     function __construct() {
         $this->current_value = '';
